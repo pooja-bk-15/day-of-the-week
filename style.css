@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    background: #fff;
+}
+
+#container{
+    width: 60%;
+    height: auto;
+    background-color: white;
+    margin: auto 50px auto;
+    border-radius: 30px;
+    box-shadow: 10px 10px 15px black;
+}
+
+h1{
+    font-size: 47px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-left: 170px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#weekday{
+    font-size: 80px;
+    color: black;
+    font-weight: 800;
+    margin-left: 170px;
+}
+
+#phrase{
+    font-size: 40px;
+    color: rgb(226, 44, 74);
+    font-weight: 800;
+    margin-left: 170px;
+}
+
+body{
+    background-image: url('pxfuel.jpg');
+    background-size: cover;
+}
+
+#img{
+    border-radius: 30px;
+    width: 30%;
+    align-items: center;
+    margin-left: 280px;
+}
